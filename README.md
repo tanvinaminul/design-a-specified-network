@@ -4,5 +4,5 @@
 3. Router DHCP Configuration
 4. Implementation of VLAN 
 5. Implementation Standard Access Control List(SACL)
-6. Intrusion Prevention System (IPS)
+6. Intrusion Detection System (IDS)
 7. Intrusion Prevention System (IPS)
